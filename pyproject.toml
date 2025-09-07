@@ -1,7 +1,7 @@
 [project]
 name = "code-review-assistant"
 version = "0.1.0"
-description = ""
+description = "LLM powered simple code review assistant"
 authors = [
     {name = "Steve",email = "stevemajou@gmail.com"}
 ]
