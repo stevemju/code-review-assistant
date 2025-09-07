@@ -1,7 +1,7 @@
 import streamlit as st
 from main import get_code_review
 
-st.title("AI Code Review Assistant")
+st.title("💬 AI Code Review Assistant")
 
 code_input = st.text_area("Paste your Python code here:", height=300)
 
